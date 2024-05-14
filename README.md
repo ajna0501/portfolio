@@ -73,8 +73,28 @@ Nerual network model showed promising results and was our final model for this r
 
 * * *
 
+### AI age and gender detector, _Hackaton Female Coders, Vienna 2023_
+
+My team made an AI detector of age and geneder of person on live camera. The accuracy was around 0.87. The project was done withing 6/7 hours
+
+
+* * *
+
 ### Zoo Center Management system
 
+One of first coding assigments using python. This project helped me a lot to learn and understandign what coding really is. The project manages animals in the zoo, their schedule for feeding, animal carers, health check ups etc. 
+
+
+* * *
+
+### Cooking recipe book 
+
+- HTML
+- Python
+- SQLite
+- Data Base
+
+First project that has user interface which allows user to save cooking recipes and search them byu several metrics ( names, duration, ingridients ... ). 
 
 
 
