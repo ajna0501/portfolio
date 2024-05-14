@@ -1,14 +1,16 @@
 # Work Experience
 
+* * *
+
 ## Internship - Data Engineer
-## _Jumia Porto Tech Center_
+### _Jumia Porto Tech Center_
 
 July 2023 - Febraury 2024, Port Portugal
 
 Was a part of data engineering team and had opportunity to get familiar with technologies such as AWS, Terraform, PySpark, Jira etc. My knowledge was applied when contirbuteing to parts of companies projects such as :
--   Adding features to Data Pipeline
-   - Adding date for extraction of data into mongodb
-   - editing and changing formats of required data
+- Adding features to Data Pipeline
+  - Adding date for extraction of data into mongodb
+  - editing and changing formats of required data
 -  Worked on my thesis project (Data qualit framework)
 -  Helped with small requests from teammates
 -  Learned to write reports of good quality ( Jira )
