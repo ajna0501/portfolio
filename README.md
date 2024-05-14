@@ -24,15 +24,15 @@ Was a part of data engineering team and had opportunity to get familiar with tec
  inspired me to persue something in creative industry. The team was amazing and I would help them with tasts like :
  - Editing 3D obejcts in Blender
  - Helped when testing projects
- - Organized and hos VR fairs and events
+ - Organized and host VR fairs and events
 
 * * *
 
-### Student job at a restourant , _Marktspiele Krems_
+### Student job at a restaurant , _Marktspiele Krems_
 
  December 2021 - June 2022, Krems Austira
 
-I worked in a restourant as a first student job. I was behind the bar making drinks and organizing work schedules. Was responsible for most service industry tasks
+I worked in a restaurant as a first student job. I was behind the bar making drinks and organizing work schedules. Was responsible for most service industry tasks
 
 * * *
 
@@ -59,7 +59,7 @@ Tools I used :
 - Terraform
 - AWS
 
-The framework consists of two modules that focus on checking if collected data in data lakes meets the expected outcomes, critera and if it's in the right format. The framework's results is a report that gives and overview of all tests runned on the data.
+The framework consists of two modules that focus on checking if collected data in data lake meets the expected outcomes, critera and if it's in the right format. The framework's results is a report that gives an overview of all tests runned on the data.
 
 * * *
 
@@ -99,5 +99,36 @@ First project that has user interface which allows user to save cooking recipes 
 
 # Education
 
-aljehdf jsh zf EW
--
+### BSc Science in Engineering - University of Applied Science - IMC Krems 
+
+Courses:
+- Programming
+- Advance statistical methods
+- DB systems
+- Machine learning, Data Mining and Processing
+- Algorithms and data structure
+- Software engineering and project management
+- Business integration ( SAP app Development )
+- Integrated value flows ( SAP process Development )
+
+* * *
+
+### High School - International Baccalaureate
+
+High Level subjects:
+- Applied Maths
+- Computer Science
+
+
+Standard Level Subjects:
+-  English
+-  German
+-  Georgaphy
+-  Economics
+-  Psyhcology
+  
+
+
+
+
+  
